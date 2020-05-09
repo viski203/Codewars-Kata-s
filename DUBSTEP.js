@@ -11,7 +11,8 @@ The input consists of a single non-empty string, consisting only of uppercase En
 
 Output
 Return the words of the initial song that Polycarpus used to make a dubsteb remix. Separate the words with a space.*/
- inputStr.split(/WUB/).filter(el => el !== '').join(' ');
+ //My solution
+inputStr.split(/WUB/).filter(el => el !== '').join(' ');
 
 
 
